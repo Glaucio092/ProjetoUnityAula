@@ -1,0 +1,44 @@
+{
+	"flows":{
+		"DEFAULT_FLOW":{
+			"callstack":{
+				"threads":[
+					{
+						"callstack":[
+							{
+								"exp":false,
+								"type":0
+							}
+						],
+						"threadIndex":0
+					}
+				],
+				"threadCounter":0
+			},
+			"outputStream":[
+				
+			],
+			"currentChoices":[
+				
+			]
+		}
+	},
+	"currentFlowName":"DEFAULT_FLOW",
+	"variablesState":{
+		
+	},
+	"evalStack":[
+		
+	],
+	"visitCounts":{
+		"0.g-0":1
+	},
+	"turnIndices":{
+		
+	},
+	"turnIdx":-1,
+	"storySeed":95,
+	"previousRandom":0,
+	"inkSaveVersion":10,
+	"inkFormatVersion":21
+}
